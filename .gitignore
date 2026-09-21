@@ -36,3 +36,6 @@ ompiled source #
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Cloud Agent preview gallery (generated)
+.preview/
